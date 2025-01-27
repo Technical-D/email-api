@@ -17,5 +17,6 @@ var/
 *.egg
 .env
 node_modules/
+__pycache__
 # Serverless directories
 .serverless
